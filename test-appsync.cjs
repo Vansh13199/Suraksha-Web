@@ -3,7 +3,7 @@ fetch('https://jmvhy4clwzannjvummuqel4yy4.appsync-api.ap-south-1.amazonaws.com/g
     method: 'POST',
     headers: {
         'Content-Type': 'application/json',
-        'x-api-key': 'da2-d7jy5zhphfasne4xnil3vbjc4u'
+        'x-api-key': 'da2-x244aarcpzbw3bdn4zvnm4jqfu'
     },
     body: JSON.stringify({
         query: 'mutation CreateSOSSession($input: CreateSOSSessionInput!) { createSOSSession(input: $input) { id } }',

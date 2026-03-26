@@ -1,15 +1,15 @@
 /* eslint-disable */
-// AWS Amplify configuration for Suraksha Website
+// WARNING: DO NOT EDIT. This file is manually constructed from amplifyconfiguration.dart
 
 const awsmobile = {
     "aws_project_region": "ap-south-1",
     "aws_appsync_graphqlEndpoint": "https://jmvhy4clwzannjvummuqel4yy4.appsync-api.ap-south-1.amazonaws.com/graphql",
     "aws_appsync_region": "ap-south-1",
     "aws_appsync_authenticationType": "API_KEY",
-    "aws_appsync_apiKey": "da2-d7jy5zhphfasne4xnil3vbjc4u",
+    "aws_appsync_apiKey": "da2-x244aarcpzbw3bdn4zvnm4jqfu",
     "aws_cognito_region": "ap-south-1",
     "aws_user_pools_id": "ap-south-1_iFJ06Qql9",
-    "aws_user_pools_web_client_id": "3qqf9oks1m83c0vbhk7mqlvlqr",
+    "aws_user_pools_web_client_id": "4p4gsfeoj8clgc1ffm37ffcr0i",
     "oauth": {},
     "aws_cognito_username_attributes": [
         "PHONE_NUMBER"
